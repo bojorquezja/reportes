@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus.castor:castor-xml:1.4.1" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.codehaus.castor" artifactId="castor-xml" version="1.4.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/castor/castor-xml/1.4.1/castor-xml-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/castor/castor-xml/1.4.1/castor-xml-1.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/castor/castor-xml/1.4.1/castor-xml-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
